@@ -4,6 +4,7 @@ project:
   
 resources:
   - files/berwick_cv1023.pdf
+  - CNAME
 
 website:
   title: "Elissa Berwick"
