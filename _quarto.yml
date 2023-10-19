@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  
+resources:
+  - files/berwick_cv1023.pdf
 
 website:
   title: "Elissa Berwick"
