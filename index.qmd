@@ -1,0 +1,24 @@
+---
+title: "Elissa Berwick"
+description: McGill Political Science
+image: "files/190909_Watson_Elissa_Berwick_015.jpg"
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - icon: file-pdf
+      text: CV
+      href: files/berwick_cv1023.pdf
+    - icon: envelope
+      text: Email
+      href: mailto:elissa.berwick@mcgill.ca
+---
+
+# Welcome!
+
+I am an assistant professor in the [Department of Political Science](https://www.mcgill.ca/politicalscience/) at [McGill University](https://www.mcgill.ca/). My research and teaching span the sub-fields of comparative politics and quantitative methodology.
+
+I received my PhD in Political Science from the [Massachusetts Institute of Technology](https://polisci.mit.edu/) in September 2019, after which I completed a postdoctoral fellowship at Brown University's [Watson Institute for International and Public Affairs](https://home.watson.brown.edu/). Before attending MIT, I received an MPhil in Politics from Oxford University and worked in Washington D.C. for the House Committee on Science and Technology. I also hold a B.S. from Yale University, where I double majored in Physics and Political Science.
+
+My research focuses on the origins and consequences of sub-state nationalism, exploring how the imagined communities of stateless nations mold actual political attitudes and behaviors. At McGill, I teach courses on [nationalism]{.highlight}, [quantitative and computational methods]{.highlight} for political science, and [causal inference]{.highlight}.

@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Elissa Berwick"
+  page-footer:
+    left: "Made with [Quarto](https://quarto.org/)"
+  navbar:
+    pinned: true
+    search: false
+    right:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - teaching.qmd
+
+format:
+  html:
+    theme: 
+      light: [journal, fonts.scss, styles-light.scss]
+      dark: [journal, fonts.scss, styles-dark.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+
+editor: visual
+
+# setup help: https://ucsb-meds.github.io/creating-quarto-websites/

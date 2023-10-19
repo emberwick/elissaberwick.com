@@ -1,0 +1,33 @@
+---
+title: "Research"
+---
+
+### Publications
+
+Berwick, Elissa. 2024. "Beyond Secession: Substate Nationalism and Support for Redistribution in Spain." *Comparative Politics*, **forthcoming**.
+
+-   Explores how and why substate nationalism shapes support for redistribution
+-   Experiment embedded in an original survey reveals that in Spanish regions with extensive substate nationalist mobilization, preferences for redistribution depend on the proposed boundaries of redistribution, where it will occur, and not just how much there will be.
+
+Berwick, Elissa, and Fotini Christia. 2018. ["State Capacity Redux: Integrating Classical and Experimental Contributions to an Enduring Debate."](https://doi.org/10.1146/annurev-polisci-072215-012907) *Annual Review of Political Science* 21 (1): 71--91.
+
+-   Presents a framework that integrates classical and experimental approaches to understanding state capacity within a common theoretical structure based on the diverse capacity challenges states face with respect to extraction, coordination, and compliance, while highlighting trends in recent research, as well as relevant differences in opportunities for and obstacles to empirical work on the subject
+
+### Projects
+
+Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group‑Level IRT Approach
+
+-   Derives multidimensional ordinal dynamic group‑level IRT model for use in estimating latent preferences from sparse survey data
+-   Applies to simulation, replication and new data sets
+-   Software implementation through `modgirt: Multidimensional ordinal dynamic IRT` (*in development*)
+
+Which Side Are You On? Partition and Political Violence in Ireland 1920-1921
+
+-   Analysis of the effect of partition on political violence in Ireland based on a quasi-natural experiment produced by the circumstances of the 1921 partition of Ireland
+-   Uses an original dataset of political violence incidents during the Irish War of Independence.
+
+### Software
+
+Soubhik Barari, Elissa Berwick, Jens Hainmueller, Daniel Hopkins, Sean Liu, Anton Strezhnev, and Teppei Yamamoto. [cjoint: AMCE Estimator for Conjoint Experiments](https://cran.r-project.org/package=cjoint) `R package version 2.1.1`
+
+-   Allows researchers to estimate the causal effects of attributes in conjoint survey experiments by implementing the Average Marginal Component-specific Effects (AMCE) estimator presented in Hainmueller, J., Hopkins, D., and Yamamoto T. (2014).
