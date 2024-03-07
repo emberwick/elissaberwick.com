@@ -2,12 +2,13 @@
 
 // Get fonts
 @import url('https://fonts.googleapis.com/css2?family=Commissioner&family=Fraunces&family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Petrona&display=swap');
 
 // set fonts
 $font-family-sans-serif: Commissioner;
 $font-family-monospace: Inconsolata;
 
-$headings-font-family: "Commissioner" !default;
+$headings-font-family: "Petrona" !default;
 $headings-font-weight: 400 !default;
 
 /*-- scss:rules --*/
@@ -25,6 +26,3 @@ main, p{
     font-weight: 400;
 }
 
-h1, h2, h3 {
-  font-family: Fraunces;
-}
