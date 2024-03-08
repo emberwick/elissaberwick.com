@@ -9,7 +9,7 @@ about:
   links:
     - icon: file-pdf
       text: CV
-      href: files/Berwick_CV0324.pdf
+      href: files/berwick_cv0324.pdf
     - icon: envelope
       text: Email
       href: mailto:elissa.berwick@mcgill.ca
