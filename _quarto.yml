@@ -1,10 +1,8 @@
 project:
   type: website
-  output-dir: docs
   
 resources:
-  - files/berwick_cv1023.pdf
-  - CNAME
+  - "assets/*"
 
 website:
   title: "Elissa Berwick"
@@ -16,15 +14,18 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - href: assets/berwick_cv0724.pdf
+        text: CV
       - research.qmd
       - teaching.qmd
+
 
 format:
   html:
     theme: 
-      light: [journal, fonts.scss, styles-light.scss]
-      dark: [journal, fonts.scss, styles-dark.scss]
-    css: styles.css
+      light: [journal, assets/fonts.scss, assets/styles-light.scss]
+      dark: [journal, assets/fonts.scss, assets/styles-dark.scss]
+    css: assets/styles.css
     toc: false
     page-layout: full
 

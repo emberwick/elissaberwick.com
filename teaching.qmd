@@ -1,41 +1,46 @@
 ---
 title: "Teaching"
-image: "files/DSC_3388.JPG"
+image: "assets/DSC_3388.JPG"
 about:
   template: solana
 ---
 
 ### POLI 312: Intermediate Quantitative Political Science
+
 #### Undergraduate methods course, McGill Political Science
 
 This course is designed to continue the introduction to data driven quantitative political analysis for undergraduates begun in Poli 311. The course employs examples from across political science sub-disciplines and is generally relevant to all social science research. Students gain a deeper understanding of quantitative empirical research in political science, touching on all three tasks of data analysis: description, prediction, and causation. Taught in `R`.
 
-[Syllabus](files/poli312_2022.pdf){.btn .btn-outline-primary .btn role="button"} 
+[Syllabus](assets/poli312_2022.pdf){.btn .btn-outline-primary .btn role="button"}
 
 ### POLI 431: Nations and States in the Developed World
+
 #### Undergraduate lecture course, McGill Political Science
 
 We live in a world of nation-states whose boundaries are legitimized by the shared identities of their populations. But what is nationalism, and how does it relate to the nations whose borders structure both the aﬀairs of states and the details of our everyday lives? In essence, nationalism is a project of creating congruence among a territory, its rulers, and the ruled. Yet scholars disagree over where national projects come from, and what their implications for societies are. The content of this course is divided into three parts, addressing in turn the origins, varieties and consequences of nationalism. Through this course, students will gain an appreciation of how nationalism came to be and how it continues to shape our world. Students will develop familiarity with the most important theorists of nationalism and their critics, both classic and contemporary.
 
-[Syllabus](files/poli431_2022.pdf){.btn .btn-outline-primary .btn role="button"} 
+[Syllabus](assets/poli431_2022.pdf){.btn .btn-outline-primary .btn role="button"}
 
 ### POLI 618: Introduction to Quantitative Analysis
+
 #### Graduate methods course, McGill Political Science
 
 This course is designed to introduce graduate students to the exciting world of data driven quantitative political analysis, using examples from across political science sub-disciplines. It is intended as the first semester-long graduate quantitative methods course students take. Students learn the basic tools of quantitative empirical research in political science, obtain skills in R, and above all enhance quantitative literacy and understand scientific replicability. Taught in `R`.
 
-[Syllabus](files/poli618_2022.pdf){.btn .btn-outline-primary .btn role="button"} 
+[Syllabus](assets/poli618_2022.pdf){.btn .btn-outline-primary .btn role="button"}
 
 ### POLI 666: Causal Inference for Political Science
+
 #### Graduate methods course, McGill Political Science
 
 This course covers empirical strategies for applied research questions. The focus of the course is on statistical methods used for causal inference in the social sciences. Using the potential outcomes framework, we discuss designs and methods for predominantly for observational data but also draw examples from experimental data. The core of the course includes panel data analysis, instrumental variables, matching, differences-in-differences, regression discontinuity designs, and advance panel techniques for both continuous and dichotomous outcomes. Examples are drawn from different social sciences. The goal of the course is to show that a carefully thought research design goes often as far as fancy statistical methods when it comes to assess causality. Taught in `R`.
 
-[Syllabus](files/POLI666_Syllabus.pdf){.btn .btn-outline-primary .btn role="button"} 
+[Syllabus](assets/POLI666_Syllabus.pdf){.btn .btn-outline-primary .btn role="button"}
 
 ### INTL 1040: Nationalism and the Nation-State
+
 #### Undergraduate seminar, Brown University
 
 Reading-intensive seminar aimed at honing students' analytical and writing skills. Students are presented with different theoretical lenses for studying nationalist movements each week and are expected to summarize arguments while critically evaluating background assumptions. Especially in the latter half of the course, readings draw from cutting-edge research, exposing students to current trends in empirical social science.
 
-[Syllabus](files/INTL_1040_Spring2020_Syllabus.pdf){.btn .btn-outline-primary .btn role="button"} 
+[Syllabus](assets/INTL_1040_Spring2020_Syllabus.pdf){.btn .btn-outline-primary .btn role="button"}

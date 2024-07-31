@@ -1,0 +1,49 @@
+/*-- useful: https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide*/
+/*-- colors: https://flatcolors.net/palette/ */
+/*-- scss:defaults --*/
+
+// Colors
+$theme-yellow: #F9E6AD;
+$theme-darkblue: #232D52;
+$theme-azure: #3967B2;
+$theme-malibu: #89C1FA;
+$theme-lightblue: #DDEFFE;
+$theme-sail: #B5E0F8;
+$theme-white: #F7F8F9;
+$black:    #000000 !default;
+$gray-700: #495057 !default;
+
+// Base document colors
+$navbar-bg: $theme-white; // navbar
+$navbar-fg: $theme-darkblue; // navbar foreground elements
+$navbar-hl: $theme-azure; // highlight color when hovering over navbar links
+$body-bg: $theme-white; // page background 
+$body-color: $gray-700; // page text 
+$footer-bg: $theme-white; // footer 
+$link-color: $theme-azure; // hyperlinks 
+
+// modify color map 
+$primary: $theme-darkblue;
+$secondary: $theme-lightblue;
+
+// Inline code
+$code-bg: $theme-lightblue; // inline code background color
+$code-color: $theme-darkblue; // inline code text color
+
+// Code blocks
+$code-block-bg: $theme-lightblue; // code block background color
+
+/*-- scss:rules --*/
+
+h1, h2 {
+  color: $theme-darkblue;
+}
+
+h3, h4 {
+  color: $theme-azure;
+}
+
+.highlight {
+  color: $theme-azure;
+  font-weight: bold;
+}

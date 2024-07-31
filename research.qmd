@@ -4,12 +4,12 @@ title: "Research"
 
 ### Publications
 
-(Revise and Resubmit). Berwick, Elissa and Devin Caughey. 2024. "Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group‑Level IRT Approach" *Political Analysis*.
+Berwick, Elissa and Devin Caughey. Forthcoming. "Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group‑Level IRT Approach" *Political Analysis*.
 
 -   Derives multidimensional ordinal dynamic group‑level IRT model for use in estimating latent preferences from sparse survey data
 -   Applies to simulation, replication and new data sets of political attitudes
 
-Berwick, Elissa. 2024. "Beyond Secession: Substate Nationalism and Support for Redistribution in Spain." *Comparative Politics*, 56(3).
+Berwick, Elissa. 2024. ["Beyond Secession: Substate Nationalism and Support for Redistribution in Spain."](https://doi.org/10.5129/001041523X17022435051581) *Comparative Politics*, 56(3).
 
 -   Explores how and why substate nationalism shapes support for redistribution
 -   Experiment embedded in an original survey reveals that in Spanish regions with extensive substate nationalist mobilization, preferences for redistribution depend on the proposed boundaries of redistribution, where it will occur, and not just how much there will be.

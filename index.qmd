@@ -1,15 +1,15 @@
 ---
 title: "Elissa Berwick"
 description: McGill Political Science
-image: "files/190909_Watson_Elissa_Berwick_015.jpg"
+image: "assets/190909_Watson_Elissa_Berwick_015.jpg"
 about: 
   template: trestles
   image-shape: rounded
   image-width: 20em
   links:
-    - icon: file-pdf
-      text: CV
-      href: files/berwick_cv0324.pdf
+    - icon: github
+      text: Github
+      href: https://github.com/emberwick
     - icon: envelope
       text: Email
       href: mailto:elissa.berwick@mcgill.ca
