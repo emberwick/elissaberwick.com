@@ -4,7 +4,7 @@ title: "Research"
 
 ### Publications
 
-Berwick, Elissa and Devin Caughey. Forthcoming. "Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group‑Level IRT Approach" *Political Analysis*.
+Berwick, Elissa and Devin Caughey. 2025. ["MODGIRT: Multidimensional Dynamic Scaling of Aggregate Survey Data"](https://doi.org/10.1017/pan.2024.25) *Political Analysis*.
 
 -   Derives multidimensional ordinal dynamic group‑level IRT model for use in estimating latent preferences from sparse survey data
 -   Applies to simulation, replication and new data sets of political attitudes

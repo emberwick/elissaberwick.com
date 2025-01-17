@@ -1,6 +1,6 @@
 # Define variables
 OUTPUT = _site/index.html
-DEPENDENCIES = index.qmd teaching.qmd research.qmd _quarto.yml assets Makefile
+DEPENDENCIES = index.qmd teaching.qmd research.qmd _quarto.yml Makefile
 
 # Default target
 all: $(OUTPUT)
