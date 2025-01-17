@@ -14,7 +14,7 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: assets/berwick_cv0724.pdf
+      - href: assets/berwick_cv0125.pdf
         text: CV
       - research.qmd
       - teaching.qmd
